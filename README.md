@@ -14,7 +14,7 @@ The data come from FRED/BLS monthly seasonally adjusted unemployment series:
 - Prime-age unemployment rate, ages 25–54: `UNRATE_prime`
 - Older-worker unemployment rate, ages 55+: `UNRATE_older`
 
-The raw CSV files are stored in the `data/` folder.
+The raw CSV files are stored in the `Data/` folder.
 
 # Reproducibility
 
@@ -24,7 +24,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-Then open the notebook in the Code/ folder and run it from top to bottom.
+Then open the notebook in the `Code/` folder and run it from top to bottom.
 
 # Methods
 
