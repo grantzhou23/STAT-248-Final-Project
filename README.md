@@ -16,10 +16,13 @@ The data come from FRED/BLS monthly seasonally adjusted unemployment series:
 
 The raw CSV files are stored in the `data/` folder.
 
-## Reproducibility
+# Reproducibility
 
 Install the required packages:
+
+```bash
 pip install -r requirements.txt
+```
 
 Then open the notebook in the Code/ folder and run it from top to bottom.
 
